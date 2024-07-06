@@ -1,1 +1,1 @@
-# Machine-Learning-Projects
+# CODSOFT Internship - Machine Learning Tasks 
